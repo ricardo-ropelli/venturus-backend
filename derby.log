@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 19 01:11:15 BRST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0167-c472-295c-00001085a0f0 
+on database directory memory:/home/ricardo/repo/venturus-backend/testdb  with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/ricardo/.m2/repository/org/apache/derby/derby/10.8.3.0/derby-10.8.3.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-0ubuntu0.16.04.1-b12
+user.dir=/home/ricardo/repo/venturus-backend
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,13 @@
+/repo/venturus-backend/src/main/java/com/venturus/configurations/DerbyDataSource.java
+/repo/venturus-backend/src/main/java/com/venturus/services/IUserService.java
+/repo/venturus-backend/src/main/java/com/venturus/entity/User.java
+/repo/venturus-backend/src/main/java/com/venturus/controllers/UserController.java
+/repo/venturus-backend/src/main/java/com/venturus/enums/RideGroupEnum.java
+/repo/venturus-backend/src/main/java/com/venturus/business/IUserBusiness.java
+/repo/venturus-backend/src/main/java/com/venturus/Application.java
+/repo/venturus-backend/src/main/java/com/venturus/infra/RequestFilter.java
+/repo/venturus-backend/src/main/java/com/venturus/infra/WebConfig.java
+/repo/venturus-backend/src/main/java/com/venturus/business/impl/UserBusiness.java
+/repo/venturus-backend/src/main/java/com/venturus/dto/UserDTO.java
+/repo/venturus-backend/src/main/java/com/venturus/repository/UserRepository.java
+/repo/venturus-backend/src/main/java/com/venturus/services/impl/UserService.java
